@@ -1,0 +1,951 @@
+/* 由 build/fetch-gallery.mjs 自动生成 — 外观实拍图集来自 Wikimedia Commons（自由版权，署名如下） */
+window.STADIUM_GALLERY = {
+ "camp-nou": [
+  {
+   "file": "assets/img/gal/camp-nou-1.jpg",
+   "title": "File:LFP - Barcelona vs Mallorca pre-match - Oct 3rd 2010.jpg",
+   "credit": "Paolo Costa Baldi",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg"
+  },
+  {
+   "file": "assets/img/gal/camp-nou-2.jpg",
+   "title": "File:-2009-04-18 Camp Nou stadium, Barcalona, Spain (1).JPG",
+   "credit": "Kolforn (Kolforn) I'd appreciate if you could mail me (Kolforn@gmail.c",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:-2009-04-18_Camp_Nou_stadium,_Barcalona,_Spain_(1).JPG"
+  },
+  {
+   "file": "assets/img/gal/camp-nou-3.jpg",
+   "title": "File:-2009-04-18 Camp Nou stadium, Barcalona, Spain (6).JPG",
+   "credit": "Kolforn (Kolforn) I'd appreciate if you could mail me (Kolforn@gmail.c",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:-2009-04-18_Camp_Nou_stadium,_Barcalona,_Spain_(6).JPG"
+  },
+  {
+   "file": "assets/img/gal/camp-nou-4.jpg",
+   "title": "File:-2009-04-18 Camp Nou stadium, Barcalona, Spain (4).JPG",
+   "credit": "Kolforn (Kolforn) I'd appreciate if you could mail me (Kolforn@gmail.c",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:-2009-04-18_Camp_Nou_stadium,_Barcalona,_Spain_(4).JPG"
+  }
+ ],
+ "westfalen": [
+  {
+   "file": "assets/img/gal/westfalen-1.jpg",
+   "title": "File:Signal iduna park stadium dortmund 1.jpg",
+   "credit": "Arne Müseler / www.arne-mueseler.com",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_1.jpg"
+  },
+  {
+   "file": "assets/img/gal/westfalen-2.jpg",
+   "title": "File:Signal iduna park stadium dortmund 2.jpg",
+   "credit": "Arne Müseler / www.arne-mueseler.com",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_2.jpg"
+  },
+  {
+   "file": "assets/img/gal/westfalen-3.jpg",
+   "title": "File:Signal iduna park stadium dortmund 7.jpg",
+   "credit": "Arne Müseler / www.arne-mueseler.com",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_7.jpg"
+  },
+  {
+   "file": "assets/img/gal/westfalen-4.jpg",
+   "title": "File:Signal iduna park stadium dortmund 6.jpg",
+   "credit": "Arne Müseler / www.arne-mueseler.com",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_6.jpg"
+  }
+ ],
+ "bernabeu": [
+  {
+   "file": "assets/img/gal/bernabeu-1.jpg",
+   "title": "File:Estadio Santiago Bernabéu 01.jpg",
+   "credit": "Luis García (Zaqarbal)",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_01.jpg"
+  },
+  {
+   "file": "assets/img/gal/bernabeu-2.jpg",
+   "title": "File:Estadio Santiago Bernabéu 02.jpg",
+   "credit": "Luis García (Zaqarbal)",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_02.jpg"
+  },
+  {
+   "file": "assets/img/gal/bernabeu-3.jpg",
+   "title": "File:Estadio Santiago Bernabéu 04.jpg",
+   "credit": "Luis García (Zaqarbal)",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_04.jpg"
+  },
+  {
+   "file": "assets/img/gal/bernabeu-4.jpg",
+   "title": "File:Estadio Santiago Bernabéu 05.jpg",
+   "credit": "Luis García (Zaqarbal)",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_05.jpg"
+  }
+ ],
+ "san-siro": [
+  {
+   "file": "assets/img/gal/san-siro-1.jpg",
+   "title": "File:Milan san siro stadium.jpg",
+   "credit": "Arne Müseler",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Milan_san_siro_stadium.jpg"
+  },
+  {
+   "file": "assets/img/gal/san-siro-2.jpg",
+   "title": "File:San siro stadium.jpg",
+   "credit": "Arne Müseler",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:San_siro_stadium.jpg"
+  },
+  {
+   "file": "assets/img/gal/san-siro-3.jpg",
+   "title": "File:The San Siro Stadium before a match between AC Milan and SSC Napoli in December 2021.jpg",
+   "credit": "Vincenzo.togni",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:The_San_Siro_Stadium_before_a_match_between_AC_Milan_and_SSC_Napoli_in_December_2021.jpg"
+  },
+  {
+   "file": "assets/img/gal/san-siro-4.jpg",
+   "title": "File:San Siro Stadium 02.jpg",
+   "credit": "Zakarie Faibis",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:San_Siro_Stadium_02.jpg"
+  }
+ ],
+ "allianz-arena": [
+  {
+   "file": "assets/img/gal/allianz-arena-1.jpg",
+   "title": "File:Allianz Arena Exterior Detail.JPG",
+   "credit": "Martin Falbisoner",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Allianz_Arena_Exterior_Detail.JPG"
+  },
+  {
+   "file": "assets/img/gal/allianz-arena-2.jpg",
+   "title": "File:Allianz Arena, Múnich, Alemania, 2013-02-11, DD 01.JPG",
+   "credit": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Allianz_Arena,_M%C3%BAnich,_Alemania,_2013-02-11,_DD_01.JPG"
+  },
+  {
+   "file": "assets/img/gal/allianz-arena-3.jpg",
+   "title": "File:Allianz Arena, Múnich, Alemania, 2013-02-11, DD 02.JPG",
+   "credit": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Allianz_Arena,_M%C3%BAnich,_Alemania,_2013-02-11,_DD_02.JPG"
+  },
+  {
+   "file": "assets/img/gal/allianz-arena-4.jpg",
+   "title": "File:Allianz Arena, Múnich, Alemania, 2013-02-11, DD 03.JPG",
+   "credit": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Allianz_Arena,_M%C3%BAnich,_Alemania,_2013-02-11,_DD_03.JPG"
+  }
+ ],
+ "olimpico": [
+  {
+   "file": "assets/img/gal/olimpico-1.jpg",
+   "title": "File:Roma Stadio Olimpico 1960 bn.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Roma_Stadio_Olimpico_1960_bn.jpg"
+  },
+  {
+   "file": "assets/img/gal/olimpico-2.jpg",
+   "title": "File:Rome, Olympic Stadium, 1950s.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rome,_Olympic_Stadium,_1950s.jpg"
+  },
+  {
+   "file": "assets/img/gal/olimpico-3.jpg",
+   "title": "File:Italy v United States 1975-04-02 Rome (edited).jpg",
+   "credit": "Original: Unknown authorUnknown author / Derivative work: Danyele",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Italy_v_United_States_1975-04-02_Rome_(edited).jpg"
+  }
+ ],
+ "tottenham": [
+  {
+   "file": "assets/img/gal/tottenham-1.jpg",
+   "title": "File:London Tottenham Hotspur Stadium.jpg",
+   "credit": "Arne Müseler",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:London_Tottenham_Hotspur_Stadium.jpg"
+  },
+  {
+   "file": "assets/img/gal/tottenham-2.jpg",
+   "title": "File:Tottenham Hotspur new stadium 2019.jpg",
+   "credit": "Acabashi",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Tottenham_Hotspur_new_stadium_2019.jpg"
+  },
+  {
+   "file": "assets/img/gal/tottenham-3.jpg",
+   "title": "File:Tottenham Hotspur Stadium remote view.jpg",
+   "credit": "Acabashi",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Tottenham_Hotspur_Stadium_remote_view.jpg"
+  },
+  {
+   "file": "assets/img/gal/tottenham-4.jpg",
+   "title": "File:Tottenham Hotspur Stadium overall view.jpg",
+   "credit": "Acabashi",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Tottenham_Hotspur_Stadium_overall_view.jpg"
+  }
+ ],
+ "veltins": [
+  {
+   "file": "assets/img/gal/veltins-1.jpg",
+   "title": "File:Arena AufSchalke Innen bei Konzert.jpg",
+   "credit": "Raimond Spekking",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Arena_AufSchalke_Innen_bei_Konzert.jpg"
+  },
+  {
+   "file": "assets/img/gal/veltins-2.jpg",
+   "title": "File:2010-06-03 Arena AufSchalke 01.jpg",
+   "credit": "Wo st 01 (There are 682 Pictures in my Category) See also Toolserver",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:2010-06-03_Arena_AufSchalke_01.jpg"
+  },
+  {
+   "file": "assets/img/gal/veltins-3.jpg",
+   "title": "File:2010-06-03 Arena AufSchalke 02.jpg",
+   "credit": "Wo st 01 (There are 682 Pictures in my Category) See also Toolserver",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:2010-06-03_Arena_AufSchalke_02.jpg"
+  },
+  {
+   "file": "assets/img/gal/veltins-4.jpg",
+   "title": "File:2010-06-03 Arena AufSchalke 04.jpg",
+   "credit": "Wo st 01 (There are 682 Pictures in my Category) See also Toolserver",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:2010-06-03_Arena_AufSchalke_04.jpg"
+  }
+ ],
+ "anfield": [
+  {
+   "file": "assets/img/gal/anfield-1.jpg",
+   "title": "File:Anfield Stadium, Liverpool (10).JPG",
+   "credit": "Rept0n1x",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Anfield_Stadium,_Liverpool_(10).JPG"
+  },
+  {
+   "file": "assets/img/gal/anfield-2.jpg",
+   "title": "File:Anfield Stadium, Liverpool (13).JPG",
+   "credit": "Rept0n1x",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Anfield_Stadium,_Liverpool_(13).JPG"
+  },
+  {
+   "file": "assets/img/gal/anfield-3.jpg",
+   "title": "File:Anfield Stadium, Liverpool (14).JPG",
+   "credit": "Rept0n1x",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Anfield_Stadium,_Liverpool_(14).JPG"
+  },
+  {
+   "file": "assets/img/gal/anfield-4.jpg",
+   "title": "File:Anfield Stadium, Liverpool (2).JPG",
+   "credit": "Rept0n1x",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Anfield_Stadium,_Liverpool_(2).JPG"
+  }
+ ],
+ "emirates": [
+  {
+   "file": "assets/img/gal/emirates-1.jpg",
+   "title": "File:Outside Arsenal's Emirates Stadium - geograph.org.uk - 4971723.jpg",
+   "credit": "Neil Theasby",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Outside_Arsenal%27s_Emirates_Stadium_-_geograph.org.uk_-_4971723.jpg"
+  },
+  {
+   "file": "assets/img/gal/emirates-2.jpg",
+   "title": "File:London Emirates Stadium arsenal.jpg",
+   "credit": "Arne Müseler",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg"
+  },
+  {
+   "file": "assets/img/gal/emirates-3.jpg",
+   "title": "File:Emirates Stadium, Arsenal's home ground.jpg",
+   "credit": "Nazmi Amin-Tai from Manipal, India",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Emirates_Stadium,_Arsenal%27s_home_ground.jpg"
+  },
+  {
+   "file": "assets/img/gal/emirates-4.jpg",
+   "title": "File:Emirates Stadium Arsenal vs Marseille.jpg",
+   "credit": "wonker",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Emirates_Stadium_Arsenal_vs_Marseille.jpg"
+  }
+ ],
+ "celtic-park": [
+  {
+   "file": "assets/img/gal/celtic-park-1.jpg",
+   "title": "File:Outside Celtic Park (51487345876).jpg",
+   "credit": "Daniel from Glasgow, United Kingdom",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Outside_Celtic_Park_(51487345876).jpg"
+  },
+  {
+   "file": "assets/img/gal/celtic-park-2.jpg",
+   "title": "File:Outside Celtic Park (51488278100).jpg",
+   "credit": "Daniel from Glasgow, United Kingdom",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Outside_Celtic_Park_(51488278100).jpg"
+  },
+  {
+   "file": "assets/img/gal/celtic-park-3.jpg",
+   "title": "File:Outside Celtic Park (51486671473).jpg",
+   "credit": "Daniel from Glasgow, United Kingdom",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Outside_Celtic_Park_(51486671473).jpg"
+  },
+  {
+   "file": "assets/img/gal/celtic-park-4.jpg",
+   "title": "File:Outside Celtic Park (51487380520).jpg",
+   "credit": "Daniel from Glasgow, United Kingdom",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Outside_Celtic_Park_(51487380520).jpg"
+  }
+ ],
+ "mhp-arena": [
+  {
+   "file": "assets/img/gal/mhp-arena-1.jpg",
+   "title": "File:Stuttgart Gasometer.jpg",
+   "credit": "Pjt56",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stuttgart_Gasometer.jpg"
+  },
+  {
+   "file": "assets/img/gal/mhp-arena-2.jpg",
+   "title": "File:Stuttgart Jul 2012 06 (Mercedes-Benz Arena).JPG",
+   "credit": "Michael Barera",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stuttgart_Jul_2012_06_(Mercedes-Benz_Arena).JPG"
+  },
+  {
+   "file": "assets/img/gal/mhp-arena-3.jpg",
+   "title": "File:Gottlieb-Daimler-Stadion Stuttgart innen.JPG",
+   "credit": "Wikimedia Commons",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Gottlieb-Daimler-Stadion_Stuttgart_innen.JPG"
+  },
+  {
+   "file": "assets/img/gal/mhp-arena-4.jpg",
+   "title": "File:Mercedes-Benz Arena (Gottlieb-Daimler-Stadion), Stuttgart - panoramio.jpg",
+   "credit": "Qwesy",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Arena_(Gottlieb-Daimler-Stadion),_Stuttgart_-_panoramio.jpg"
+  }
+ ],
+ "johan-cruyff": [
+  {
+   "file": "assets/img/gal/johan-cruyff-1.jpg",
+   "title": "File:Amsterdam JCArena S Detail 9115 201810.jpg",
+   "credit": "Matthias Nonnenmacher",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Amsterdam_JCArena_S_Detail_9115_201810.jpg"
+  },
+  {
+   "file": "assets/img/gal/johan-cruyff-2.jpg",
+   "title": "File:Amsterdam Arena Aerial.jpg",
+   "credit": "R.M.Jaarsma",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Amsterdam_Arena_Aerial.jpg"
+  },
+  {
+   "file": "assets/img/gal/johan-cruyff-3.jpg",
+   "title": "File:Arena, Ajax stadion, Amsterdam.JPG",
+   "credit": "Alf van Beem",
+   "license": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Arena,_Ajax_stadion,_Amsterdam.JPG"
+  },
+  {
+   "file": "assets/img/gal/johan-cruyff-4.jpg",
+   "title": "File:Johan Cruijff Arena.jpg",
+   "credit": "Scottbrl90",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Johan_Cruijff_Arena.jpg"
+  }
+ ],
+ "bombonera": [
+  {
+   "file": "assets/img/gal/bombonera-1.jpg",
+   "title": "File:La Bombonera football stadium.jpg",
+   "credit": "Julia Sumangil",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:La_Bombonera_football_stadium.jpg"
+  },
+  {
+   "file": "assets/img/gal/bombonera-2.jpg",
+   "title": "File:Estacion de tranvias en Almirante Brown (Buenos Aires).JPG",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Estacion_de_tranvias_en_Almirante_Brown_(Buenos_Aires).JPG"
+  },
+  {
+   "file": "assets/img/gal/bombonera-3.jpg",
+   "title": "File:Paso nivel calle brandsen bombonera 1971.jpg",
+   "credit": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Paso_nivel_calle_brandsen_bombonera_1971.jpg"
+  },
+  {
+   "file": "assets/img/gal/bombonera-4.jpg",
+   "title": "File:La Bombonera - Buenos Aires - Argentina3.jpg",
+   "credit": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:La_Bombonera_-_Buenos_Aires_-_Argentina3.jpg"
+  }
+ ],
+ "st-james": [
+  {
+   "file": "assets/img/gal/st-james-1.jpg",
+   "title": "File:Newcastle st-james-park stadium.jpg",
+   "credit": "Arne Müseler",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:Newcastle_st-james-park_stadium.jpg"
+  },
+  {
+   "file": "assets/img/gal/st-james-2.jpg",
+   "title": "File:St James' Park & Leazes Terrace, Newcastle upon Tyne, 4 September 2013.jpg",
+   "credit": "Ultra7",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:St_James%27_Park_%26_Leazes_Terrace,_Newcastle_upon_Tyne,_4_September_2013.jpg"
+  },
+  {
+   "file": "assets/img/gal/st-james-3.jpg",
+   "title": "File:View from the Sir John Hall Stand, St James' Park, Newcastle upon Tyne - geograph.org.uk - 2038878.jpg",
+   "credit": "Graham Hogg",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:View_from_the_Sir_John_Hall_Stand,_St_James%27_Park,_Newcastle_upon_Tyne_-_geograph.org.uk_-_2038878.jpg"
+  },
+  {
+   "file": "assets/img/gal/st-james-4.jpg",
+   "title": "File:St James' Park, Newcastle - geograph.org.uk - 1760436.jpg",
+   "credit": "Les Hull",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:St_James%27_Park,_Newcastle_-_geograph.org.uk_-_1760436.jpg"
+  }
+ ],
+ "ibrox": [
+  {
+   "file": "assets/img/gal/ibrox-1.jpg",
+   "title": "File:Memorial Outside Main Stand of Ibrox Stadium.JPG",
+   "credit": "Graham Laird",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Memorial_Outside_Main_Stand_of_Ibrox_Stadium.JPG"
+  },
+  {
+   "file": "assets/img/gal/ibrox-2.jpg",
+   "title": "File:Outside Ibrox Stadium (2) (7274486668).jpg",
+   "credit": "Daniel from Glasgow, United Kingdom",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Outside_Ibrox_Stadium_(2)_(7274486668).jpg"
+  },
+  {
+   "file": "assets/img/gal/ibrox-3.jpg",
+   "title": "File:Outside Ibrox Stadium (7244944336).jpg",
+   "credit": "Daniel from Glasgow, United Kingdom",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Outside_Ibrox_Stadium_(7244944336).jpg"
+  }
+ ],
+ "parc-des-princes": [
+  {
+   "file": "assets/img/gal/parc-des-princes-1.jpg",
+   "title": "File:8-4-12, Parc des Princes, rugby, équipe de France - btv1b531136238.jpg",
+   "credit": "Agence Rol. Agence photographique (commanditaire)",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:8-4-12,_Parc_des_Princes,_rugby,_%C3%A9quipe_de_France_-_btv1b531136238.jpg"
+  },
+  {
+   "file": "assets/img/gal/parc-des-princes-2.jpg",
+   "title": "File:1-1-13, rugby, Parc des Princes, équipe de France - btv1b53114597x.jpg",
+   "credit": "Agence Rol. Agence photographique (commanditaire)",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:1-1-13,_rugby,_Parc_des_Princes,_%C3%A9quipe_de_France_-_btv1b53114597x.jpg"
+  },
+  {
+   "file": "assets/img/gal/parc-des-princes-3.jpg",
+   "title": "File:8-4-12, Parc des Princes, rugby, équipe de France - btv1b53113629z.jpg",
+   "credit": "Agence Rol. Agence photographique (commanditaire)",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:8-4-12,_Parc_des_Princes,_rugby,_%C3%A9quipe_de_France_-_btv1b53113629z.jpg"
+  },
+  {
+   "file": "assets/img/gal/parc-des-princes-4.jpg",
+   "title": "File:Parc des Princes, 19-2-33, rugby, équipe de (l'AS) Montferrand (de g. à d. debout) Rochon, Cohalion, Monnet, Julien, Cognet, Punsola, Gibert 2, Gibert 1 (et, accroupis) Bellot, Perichaud, Plumasson, Clément... - btv1b532669344.jpg",
+   "credit": "Agence Rol. Agence photographique (commanditaire)",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Parc_des_Princes,_19-2-33,_rugby,_%C3%A9quipe_de_(l%27AS)_Montferrand_(de_g._%C3%A0_d._debout)_Rochon,_Cohalion,_Monnet,_Julien,_Cognet,_Punsola,_Gibert_2,_Gibert_1_(et,_accroupis)_Bellot,_Perichaud,_Plumasson,_Cl%C3%A9ment..._-_btv1b532669344.jpg"
+  }
+ ],
+ "stamford-bridge": [
+  {
+   "file": "assets/img/gal/stamford-bridge-1.jpg",
+   "title": "File:Outside Stamford Bridge (50302033152).jpg",
+   "credit": "Daniel from Glasgow, United Kingdom",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Outside_Stamford_Bridge_(50302033152).jpg"
+  },
+  {
+   "file": "assets/img/gal/stamford-bridge-2.jpg",
+   "title": "File:Stamford Bridge Stadium Football Pitch, 2.22.2013.jpg",
+   "credit": "WorldTraveller101",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stamford_Bridge_Stadium_Football_Pitch,_2.22.2013.jpg"
+  },
+  {
+   "file": "assets/img/gal/stamford-bridge-3.jpg",
+   "title": "File:Stamford Bridge Stadium - view from The Shed End - geograph.org.uk - 3610589.jpg",
+   "credit": "Neil Theasby",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stamford_Bridge_Stadium_-_view_from_The_Shed_End_-_geograph.org.uk_-_3610589.jpg"
+  },
+  {
+   "file": "assets/img/gal/stamford-bridge-4.jpg",
+   "title": "File:Inside Stamford Bridge Stadium - Chelsea v Peterborough - geograph.org.uk - 5253336.jpg",
+   "credit": "Richard Humphrey",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg"
+  }
+ ],
+ "monumental": [
+  {
+   "file": "assets/img/gal/monumental-1.jpg",
+   "title": "File:Panorama Estadio Monumental (Buenos Aires, Argentina) football River Plate.jpg",
+   "credit": "Uwebart",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Panorama_Estadio_Monumental_(Buenos_Aires,_Argentina)_football_River_Plate.jpg"
+  },
+  {
+   "file": "assets/img/gal/monumental-2.jpg",
+   "title": "File:Estadio Monumental (River Plate), Buenos Aires ARG(1).jpg",
+   "credit": "Stefano Vigorelli",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Estadio_Monumental_(River_Plate),_Buenos_Aires_ARG(1).jpg"
+  },
+  {
+   "file": "assets/img/gal/monumental-3.jpg",
+   "title": "File:Estadio Monumental (River Plate), Buenos Aires ARG(2).jpg",
+   "credit": "Stefano Vigorelli",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Estadio_Monumental_(River_Plate),_Buenos_Aires_ARG(2).jpg"
+  },
+  {
+   "file": "assets/img/gal/monumental-4.jpg",
+   "title": "File:Estadio Monumental (River Plate), Buenos Aires ARG.jpg",
+   "credit": "Stefano Vigorelli",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Estadio_Monumental_(River_Plate),_Buenos_Aires_ARG.jpg"
+  }
+ ],
+ "maracana": [
+  {
+   "file": "assets/img/gal/maracana-1.jpg",
+   "title": "File:Maracanã Stadium Rio.jpg",
+   "credit": "The Gentle",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Maracan%C3%A3_Stadium_Rio.jpg"
+  },
+  {
+   "file": "assets/img/gal/maracana-2.jpg",
+   "title": "File:Maracanã Stadium in Rio de Janeiro.jpg",
+   "credit": "Arthur Boppré",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Maracan%C3%A3_Stadium_in_Rio_de_Janeiro.jpg"
+  },
+  {
+   "file": "assets/img/gal/maracana-3.jpg",
+   "title": "File:Maracanã Stadium Panorama.jpg",
+   "credit": "ianjvoos",
+   "license": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Maracan%C3%A3_Stadium_Panorama.jpg"
+  },
+  {
+   "file": "assets/img/gal/maracana-4.jpg",
+   "title": "File:Brazil vs Honduras, men's football tournament at the 2016 Summer Olympics, Maracanã Stadium, Rio de Janeiro, Brazil.jpg",
+   "credit": "Rafael Henrique Serra",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Brazil_vs_Honduras,_men%27s_football_tournament_at_the_2016_Summer_Olympics,_Maracan%C3%A3_Stadium,_Rio_de_Janeiro,_Brazil.jpg"
+  }
+ ],
+ "old-trafford": [
+  {
+   "file": "assets/img/gal/old-trafford-1.jpg",
+   "title": "File:Manchester , Trafford - Old Trafford Stadium - geograph.org.uk - 3724146.jpg",
+   "credit": "Lewis Clarke",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Manchester_,_Trafford_-_Old_Trafford_Stadium_-_geograph.org.uk_-_3724146.jpg"
+  },
+  {
+   "file": "assets/img/gal/old-trafford-2.jpg",
+   "title": "File:Manchester , Trafford - Old Trafford Football Stadium - geograph.org.uk - 3725263.jpg",
+   "credit": "Lewis Clarke",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Manchester_,_Trafford_-_Old_Trafford_Football_Stadium_-_geograph.org.uk_-_3725263.jpg"
+  },
+  {
+   "file": "assets/img/gal/old-trafford-3.jpg",
+   "title": "File:Manchester , Trafford - Old Trafford Football Stadium - geograph.org.uk - 3725265.jpg",
+   "credit": "Lewis Clarke",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Manchester_,_Trafford_-_Old_Trafford_Football_Stadium_-_geograph.org.uk_-_3725265.jpg"
+  },
+  {
+   "file": "assets/img/gal/old-trafford-4.jpg",
+   "title": "File:Manchester , Trafford - Old Trafford Football Stadium - geograph.org.uk - 3725267.jpg",
+   "credit": "Lewis Clarke",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Manchester_,_Trafford_-_Old_Trafford_Football_Stadium_-_geograph.org.uk_-_3725267.jpg"
+  }
+ ],
+ "velodrome": [
+  {
+   "file": "assets/img/gal/velodrome-1.jpg",
+   "title": "File:Stadion Marseille Stade Vélodrome (204787669).jpeg",
+   "credit": "Dronepicr",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stadion_Marseille_Stade_V%C3%A9lodrome_(204787669).jpeg"
+  },
+  {
+   "file": "assets/img/gal/velodrome-2.jpg",
+   "title": "File:2016 Marseille - Stade Vélodrome.jpg",
+   "credit": "Ladislaus Hoffner",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:2016_Marseille_-_Stade_V%C3%A9lodrome.jpg"
+  },
+  {
+   "file": "assets/img/gal/velodrome-3.jpg",
+   "title": "File:Le Stade vélodrome de Marseille, le 13 juin 1937.jpg",
+   "credit": "Le Miroir des sports",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Stade_v%C3%A9lodrome_de_Marseille,_le_13_juin_1937.jpg"
+  },
+  {
+   "file": "assets/img/gal/velodrome-4.jpg",
+   "title": "File:Stade Vélodrome Marseille France.jpg",
+   "credit": "Zakarie Faibis",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stade_V%C3%A9lodrome_Marseille_France.jpg"
+  }
+ ],
+ "da-luz": [
+  {
+   "file": "assets/img/gal/da-luz-1.jpg",
+   "title": "File:Estadio da Luz, Lisbon.png",
+   "credit": "Steve Gardner",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Estadio_da_Luz,_Lisbon.png"
+  },
+  {
+   "file": "assets/img/gal/da-luz-2.jpg",
+   "title": "File:Estádio da Luz 2008.jpg",
+   "credit": "Claudio Calvao",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_da_Luz_2008.jpg"
+  },
+  {
+   "file": "assets/img/gal/da-luz-3.jpg",
+   "title": "File:Geração Benfica field at Estádio da Luz.JPG",
+   "credit": "Threeohsix",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Gera%C3%A7%C3%A3o_Benfica_field_at_Est%C3%A1dio_da_Luz.JPG"
+  },
+  {
+   "file": "assets/img/gal/da-luz-4.jpg",
+   "title": "File:Estádio da Luz phases at Museu Cosme Damião.JPG",
+   "credit": "Threeohsix",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_da_Luz_phases_at_Museu_Cosme_Dami%C3%A3o.JPG"
+  }
+ ],
+ "groupama": [
+  {
+   "file": "assets/img/gal/groupama-1.jpg",
+   "title": "File:The Groupama Stadium in 2019 during an Olympique Lyonnais game.jpg",
+   "credit": "Vincenzo.togni",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Groupama_Stadium_in_2019_during_an_Olympique_Lyonnais_game.jpg"
+  },
+  {
+   "file": "assets/img/gal/groupama-2.jpg",
+   "title": "File:Paul Landers au Groupama Stadium Lyon le 15 juin 2024.jpg",
+   "credit": "Tilly antoine",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Paul_Landers_au_Groupama_Stadium_Lyon_le_15_juin_2024.jpg"
+  },
+  {
+   "file": "assets/img/gal/groupama-3.jpg",
+   "title": "File:Oliver Riedel au Groupama Stadium Lyon le 15 juin 2024.jpg",
+   "credit": "Tilly antoine",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Oliver_Riedel_au_Groupama_Stadium_Lyon_le_15_juin_2024.jpg"
+  },
+  {
+   "file": "assets/img/gal/groupama-4.jpg",
+   "title": "File:Christian Lorenz au Groupama Stadium Lyon le 15 juin 2024.jpg",
+   "credit": "Tilly antoine",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Christian_Lorenz_au_Groupama_Stadium_Lyon_le_15_juin_2024.jpg"
+  }
+ ],
+ "maradona": [
+  {
+   "file": "assets/img/gal/maradona-1.jpg",
+   "title": "File:Stadio Diego Armando Maradona 2022 (2).jpg",
+   "credit": "Joris",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stadio_Diego_Armando_Maradona_2022_(2).jpg"
+  },
+  {
+   "file": "assets/img/gal/maradona-2.jpg",
+   "title": "File:Stadio Diego Armando Maradona 2022 (1).jpg",
+   "credit": "Joris",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stadio_Diego_Armando_Maradona_2022_(1).jpg"
+  },
+  {
+   "file": "assets/img/gal/maradona-3.jpg",
+   "title": "File:Stadio Diego Armando Maradona (3).jpg",
+   "credit": "Joris",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stadio_Diego_Armando_Maradona_(3).jpg"
+  },
+  {
+   "file": "assets/img/gal/maradona-4.jpg",
+   "title": "File:Stadio Maradona Serie A.jpg",
+   "credit": "Gaetano Capaldo",
+   "license": "CC BY 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stadio_Maradona_Serie_A.jpg"
+  }
+ ],
+ "etihad": [
+  {
+   "file": "assets/img/gal/etihad-1.jpg",
+   "title": "File:Etihad Stadium, Manchester City Football Club (Ank Kumar, Infosys) 03.jpg",
+   "credit": "Ank kumar",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Etihad_Stadium,_Manchester_City_Football_Club_(Ank_Kumar,_Infosys)_03.jpg"
+  },
+  {
+   "file": "assets/img/gal/etihad-2.jpg",
+   "title": "File:Etihad Stadium, Manchester City Football Club (Ank Kumar, Infosys) 05.jpg",
+   "credit": "Ank kumar",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Etihad_Stadium,_Manchester_City_Football_Club_(Ank_Kumar,_Infosys)_05.jpg"
+  },
+  {
+   "file": "assets/img/gal/etihad-3.jpg",
+   "title": "File:Etihad Stadium, Manchester City Football Club (Ank Kumar, Infosys) 12.jpg",
+   "credit": "Ank kumar",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Etihad_Stadium,_Manchester_City_Football_Club_(Ank_Kumar,_Infosys)_12.jpg"
+  },
+  {
+   "file": "assets/img/gal/etihad-4.jpg",
+   "title": "File:Etihad Stadium, Manchester City Football Club (Ank Kumar, Infosys) 13.jpg",
+   "credit": "Ank kumar",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Etihad_Stadium,_Manchester_City_Football_Club_(Ank_Kumar,_Infosys)_13.jpg"
+  }
+ ],
+ "rams-park": [
+  {
+   "file": "assets/img/gal/rams-park-1.jpg",
+   "title": "File:Ali Sami Yen Spor Kompleksi Türk Telekom Arena.jpg",
+   "credit": "Qwl",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ali_Sami_Yen_Spor_Kompleksi_T%C3%BCrk_Telekom_Arena.jpg"
+  },
+  {
+   "file": "assets/img/gal/rams-park-2.jpg",
+   "title": "File:Ali Sami Yen Spor Kompleksi Türk Telekom Arena2.jpg",
+   "credit": "Qwl",
+   "license": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ali_Sami_Yen_Spor_Kompleksi_T%C3%BCrk_Telekom_Arena2.jpg"
+  },
+  {
+   "file": "assets/img/gal/rams-park-3.jpg",
+   "title": "File:Ali Sami Yen Spor Kompleksi Türk Telekom Arena3.jpg",
+   "credit": "Qwl",
+   "license": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Ali_Sami_Yen_Spor_Kompleksi_T%C3%BCrk_Telekom_Arena3.jpg"
+  },
+  {
+   "file": "assets/img/gal/rams-park-4.jpg",
+   "title": "File:Ali Sami Yen Spor Kompleksi Türk Telekom Arena4.jpg",
+   "credit": "Qwl",
+   "license": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Ali_Sami_Yen_Spor_Kompleksi_T%C3%BCrk_Telekom_Arena4.jpg"
+  }
+ ],
+ "sukru": [
+  {
+   "file": "assets/img/gal/sukru-1.jpg",
+   "title": "File:Istanbul Şükrü Saracoğlu Stadium 1.jpg",
+   "credit": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Istanbul_%C5%9E%C3%BCkr%C3%BC_Saraco%C4%9Flu_Stadium_1.jpg"
+  },
+  {
+   "file": "assets/img/gal/sukru-2.jpg",
+   "title": "File:Istanbul Şükrü Saracoğlu Stadium 2.jpg",
+   "credit": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Istanbul_%C5%9E%C3%BCkr%C3%BC_Saraco%C4%9Flu_Stadium_2.jpg"
+  },
+  {
+   "file": "assets/img/gal/sukru-3.jpg",
+   "title": "File:Istanbul Şükrü Saracoğlu Stadium 3.jpg",
+   "credit": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Istanbul_%C5%9E%C3%BCkr%C3%BC_Saraco%C4%9Flu_Stadium_3.jpg"
+  },
+  {
+   "file": "assets/img/gal/sukru-4.jpg",
+   "title": "File:Istanbul Şükrü Saracoğlu Stadium 4.jpg",
+   "credit": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Istanbul_%C5%9E%C3%BCkr%C3%BC_Saraco%C4%9Flu_Stadium_4.jpg"
+  }
+ ],
+ "villa-park": [
+  {
+   "file": "assets/img/gal/villa-park-1.jpg",
+   "title": "File:Birmingham aston villa park stadium.jpg",
+   "credit": "Arne Müseler",
+   "license": "CC BY-SA 3.0 de",
+   "src": "https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg"
+  },
+  {
+   "file": "assets/img/gal/villa-park-2.jpg",
+   "title": "File:Villa Park (Holte End Higher).jpg",
+   "credit": "en:User:T3rotm (en.wiki user)",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Villa_Park_(Holte_End_Higher).jpg"
+  },
+  {
+   "file": "assets/img/gal/villa-park-3.jpg",
+   "title": "File:Villa Park, looking down Trinity Road.jpg",
+   "credit": "User:Woodym555",
+   "license": "CC BY-SA 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Villa_Park,_looking_down_Trinity_Road.jpg"
+  },
+  {
+   "file": "assets/img/gal/villa-park-4.jpg",
+   "title": "File:The Holte from Trinity Road near Villa Park (4262375680).jpg",
+   "credit": "Elliott Brown from Birmingham, United Kingdom",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Holte_from_Trinity_Road_near_Villa_Park_(4262375680).jpg"
+  }
+ ],
+ "sanchez-pizjuan": [
+  {
+   "file": "assets/img/gal/sanchez-pizjuan-3.jpg",
+   "title": "File:Seville Ramón Sánchez Pizjuán Stadium 3.jpg",
+   "credit": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Seville_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_Stadium_3.jpg"
+  },
+  {
+   "file": "assets/img/gal/sanchez-pizjuan-4.jpg",
+   "title": "File:Seville Ramón Sánchez Pizjuán Stadium 4.jpg",
+   "credit": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Seville_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_Stadium_4.jpg"
+  }
+ ],
+ "allianz-stadium": [
+  {
+   "file": "assets/img/gal/allianz-stadium-1.jpg",
+   "title": "File:Juventus v Real Madrid, Champions League, Stadium, Turin, 2013.jpg",
+   "credit": "forzaq8 from kuwait, kuwait",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Juventus_v_Real_Madrid,_Champions_League,_Stadium,_Turin,_2013.jpg"
+  },
+  {
+   "file": "assets/img/gal/allianz-stadium-2.jpg",
+   "title": "File:Turin Juventus Stadium 1.jpg",
+   "credit": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Turin_Juventus_Stadium_1.jpg"
+  },
+  {
+   "file": "assets/img/gal/allianz-stadium-3.jpg",
+   "title": "File:Turin Juventus Stadium 2.jpg",
+   "credit": "Валерий Дед",
+   "license": "CC BY 3.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Turin_Juventus_Stadium_2.jpg"
+  },
+  {
+   "file": "assets/img/gal/allianz-stadium-4.jpg",
+   "title": "File:Juventus Stadium in Turin - Champions League 2013-14 - Juventus v Real Madrid.jpg",
+   "credit": "forzaq8 from kuwait, kuwait",
+   "license": "CC BY 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Juventus_Stadium_in_Turin_-_Champions_League_2013-14_-_Juventus_v_Real_Madrid.jpg"
+  }
+ ],
+ "dragao": [
+  {
+   "file": "assets/img/gal/dragao-2.jpg",
+   "title": "File:Porto, Estádio do Dragão (1).jpg",
+   "credit": "Palickap",
+   "license": "CC BY-SA 4.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Porto,_Est%C3%A1dio_do_Drag%C3%A3o_(1).jpg"
+  },
+  {
+   "file": "assets/img/gal/dragao-3.jpg",
+   "title": "File:Estádio do Dragão (8468978586).jpg",
+   "credit": "Edgar Jiménez from Porto, Portugal",
+   "license": "CC BY-SA 2.0",
+   "src": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Drag%C3%A3o_(8468978586).jpg"
+  }
+ ],
+ "metropolitano": [
+  {
+   "file": "assets/img/gal/metropolitano-1.jpg",
+   "title": "File:Madrid - Estadio Wanda Metropolitano 02.jpg",
+   "credit": "Zarateman",
+   "license": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Madrid_-_Estadio_Wanda_Metropolitano_02.jpg"
+  },
+  {
+   "file": "assets/img/gal/metropolitano-2.jpg",
+   "title": "File:Madrid - Estadio Wanda Metropolitano 01.jpg",
+   "credit": "Zarateman",
+   "license": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Madrid_-_Estadio_Wanda_Metropolitano_01.jpg"
+  },
+  {
+   "file": "assets/img/gal/metropolitano-3.jpg",
+   "title": "File:Madrid - Estadio Wanda Metropolitano 03.jpg",
+   "credit": "Zarateman",
+   "license": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Madrid_-_Estadio_Wanda_Metropolitano_03.jpg"
+  },
+  {
+   "file": "assets/img/gal/metropolitano-4.jpg",
+   "title": "File:Madrid - Estadio Wanda Metropolitano 04.jpg",
+   "credit": "Zarateman",
+   "license": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Madrid_-_Estadio_Wanda_Metropolitano_04.jpg"
+  }
+ ]
+};

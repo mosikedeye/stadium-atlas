@@ -1,0 +1,82 @@
+{
+ "monumental": {
+  "title": "File:River Plate FC Monumental Stadium panorama.jpg",
+  "credit": "Innoverdrive",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:River_Plate_FC_Monumental_Stadium_panorama.jpg",
+  "w": 4096,
+  "kb": 1673
+ },
+ "bernabeu": {
+  "title": "File:Santiagobernabeupanorama.jpg",
+  "credit": "Daniel Schroeder (Yaddayadda)",
+  "license": "CC BY-SA 2.5",
+  "src": "https://commons.wikimedia.org/wiki/File:Santiagobernabeupanorama.jpg",
+  "w": 4096,
+  "kb": 1775
+ },
+ "san-siro": {
+  "title": "File:Photosphere of the interior of San Siro (Grandola ed Uniti) 03.jpg",
+  "credit": "Kaitu",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Photosphere_of_the_interior_of_San_Siro_(Grandola_ed_Uniti)_03.jpg",
+  "w": 4096,
+  "kb": 1179
+ },
+ "allianz-arena": {
+  "title": "File:München, Allianz Arena, innen 2019-11 (3).jpg",
+  "credit": "HerrAdams",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen,_Allianz_Arena,_innen_2019-11_(3).jpg",
+  "w": 4096,
+  "kb": 2319
+ },
+ "old-trafford": {
+  "title": "File:Oldtraffordstadpano.jpg",
+  "credit": "LiamUK",
+  "license": "CC BY-SA 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Oldtraffordstadpano.jpg",
+  "w": 4096,
+  "kb": 1806
+ },
+ "veltins": {
+  "title": "File:Veltins-Arena Panorama.jpg",
+  "credit": "DerHans04",
+  "license": "CC BY-SA 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Veltins-Arena_Panorama.jpg",
+  "w": 4096,
+  "kb": 2331
+ },
+ "anfield": {
+  "title": "File:Anfield stadium (Liverpool) panorama view from main stand.jpg",
+  "credit": "Yurificacion",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Anfield_stadium_(Liverpool)_panorama_view_from_main_stand.jpg",
+  "w": 2912,
+  "kb": 1653
+ },
+ "celtic-park": {
+  "title": "File:Celtic park panorama.jpg",
+  "credit": "Guillaume Gogo",
+  "license": "CC BY 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Celtic_park_panorama.jpg",
+  "w": 4096,
+  "kb": 1430
+ },
+ "st-james": {
+  "title": "File:St James's Park Panorama - May 2006.jpg",
+  "credit": "Diliff",
+  "license": "CC BY 2.5",
+  "src": "https://commons.wikimedia.org/wiki/File:St_James%27s_Park_Panorama_-_May_2006.jpg",
+  "w": 4096,
+  "kb": 2146
+ },
+ "parc-des-princes": {
+  "title": "File:Paris Parc des Princes 3.jpg",
+  "credit": "Валерий Дед",
+  "license": "CC BY 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Paris_Parc_des_Princes_3.jpg",
+  "w": 2000,
+  "kb": 2023
+ }
+}

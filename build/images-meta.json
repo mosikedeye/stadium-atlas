@@ -1,0 +1,200 @@
+{
+ "monumental": {
+  "file": "assets/img/monumental.jpg",
+  "credit": "Uwebart",
+  "license": "CC BY-SA 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Panorama_Estadio_Monumental_(Buenos_Aires,_Argentina)_football_River_Plate.jpg"
+ },
+ "maracana": {
+  "file": "assets/img/maracana.jpg",
+  "credit": "The Gentle",
+  "license": "CC BY-SA 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Maracan%C3%A3_Stadium_Rio.jpg"
+ },
+ "bernabeu": {
+  "file": "assets/img/bernabeu.jpg",
+  "credit": "Ank Kumar",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Real_Madrid%27s_Santiago_Bernab%C3%A9u_Stadium,_Madrid,_Spain_(Ank_Kumar)_01.jpg"
+ },
+ "san-siro": {
+  "file": "assets/img/san-siro.jpg",
+  "credit": "Vincenzo.togni",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:The_San_Siro_Stadium_before_a_match_between_AC_Milan_and_SSC_Napoli_in_December_2021.jpg"
+ },
+ "allianz-arena": {
+  "file": "assets/img/allianz-arena.jpg",
+  "credit": "Martin Falbisoner",
+  "license": "CC BY-SA 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:St_Patrick%27s_Day_Munich_-_Allianz_Arena.JPG"
+ },
+ "old-trafford": {
+  "file": "assets/img/old-trafford.jpg",
+  "credit": "Lewis Clarke",
+  "license": "CC BY-SA 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Manchester_,_Trafford_-_Old_Trafford_Stadium_-_geograph.org.uk_-_3724146.jpg"
+ },
+ "olimpico": {
+  "file": "assets/img/olimpico.jpg",
+  "credit": "Doc Searls from Santa Barbara, USA",
+  "license": "CC BY 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Stadio_Olimpico_in_Rome.jpg"
+ },
+ "metropolitano": {
+  "file": "assets/img/metropolitano.jpg",
+  "credit": "Zarateman",
+  "license": "CC0",
+  "src": "https://commons.wikimedia.org/wiki/File:Madrid_-_Estadio_Wanda_Metropolitano_02.jpg"
+ },
+ "camp-nou": {
+  "file": "assets/img/camp-nou.jpg",
+  "credit": "ticketsluxury",
+  "license": "CC0",
+  "src": "https://commons.wikimedia.org/wiki/File:Stadium_of_Football_Club_FC_Barcelona_-_Camp_Nou.jpg"
+ },
+ "westfalen": {
+  "file": "assets/img/westfalen.jpg",
+  "credit": "Arne Müseler / www.arne-mueseler.com",
+  "license": "CC BY-SA 3.0 de",
+  "src": "https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_1.jpg"
+ },
+ "velodrome": {
+  "file": "assets/img/velodrome.jpg",
+  "credit": "Dronepicr",
+  "license": "CC BY 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Stadion_Marseille_Stade_V%C3%A9lodrome_(204787669).jpeg"
+ },
+ "da-luz": {
+  "file": "assets/img/da-luz.jpg",
+  "credit": "Claudio Calvao",
+  "license": "CC BY 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_da_Luz_2008.jpg"
+ },
+ "tottenham": {
+  "file": "assets/img/tottenham.jpg",
+  "credit": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
+  "src": "https://commons.wikimedia.org/wiki/File:London_Tottenham_Hotspur_Stadium.jpg"
+ },
+ "anfield": {
+  "file": "assets/img/anfield.jpg",
+  "credit": "Yurificacion",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Anfield_stadium_(Liverpool)_panorama_view_from_main_stand.jpg"
+ },
+ "emirates": {
+  "file": "assets/img/emirates.jpg",
+  "credit": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
+  "src": "https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg"
+ },
+ "celtic-park": {
+  "file": "assets/img/celtic-park.jpg",
+  "credit": "Thomas Nugent",
+  "license": "CC BY-SA 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Celtic_Park_stadium_(geograph_7734854).jpg"
+ },
+ "mhp-arena": {
+  "file": "assets/img/mhp-arena.jpg",
+  "credit": "Wikimedia Commons",
+  "license": "CC BY-SA 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Gottlieb-Daimler-Stadion_Stuttgart_innen.JPG"
+ },
+ "groupama": {
+  "file": "assets/img/groupama.jpg",
+  "credit": "Vincenzo.togni",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:The_Groupama_Stadium_in_2019_during_an_Olympique_Lyonnais_game.jpg"
+ },
+ "johan-cruyff": {
+  "file": "assets/img/johan-cruyff.jpg",
+  "credit": "Alf van Beem",
+  "license": "CC0",
+  "src": "https://commons.wikimedia.org/wiki/File:Arena,_Ajax_stadion,_Amsterdam.JPG"
+ },
+ "maradona": {
+  "file": "assets/img/maradona.jpg",
+  "credit": "Joris",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Stadio_Diego_Armando_Maradona_2022_(2).jpg"
+ },
+ "bombonera": {
+  "file": "assets/img/bombonera.jpg",
+  "credit": "Diego Delso",
+  "license": "CC BY-SA 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:La_Bombonera_-_Buenos_Aires_-_Argentina3.jpg"
+ },
+ "etihad": {
+  "file": "assets/img/etihad.jpg",
+  "credit": "Ank kumar",
+  "license": "CC BY-SA 4.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Etihad_Stadium,_Manchester_City_Football_Club_(Ank_Kumar,_Infosys)_03.jpg"
+ },
+ "st-james": {
+  "file": "assets/img/st-james.jpg",
+  "credit": "Steve Brown",
+  "license": "CC BY-SA 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:St_James_Park_Newcastle_view_from_the_south.jpg"
+ },
+ "ibrox": {
+  "file": "assets/img/ibrox.jpg",
+  "credit": "ElSpaniardo10",
+  "license": "Public domain",
+  "src": "https://commons.wikimedia.org/wiki/File:Ibrox_Stadium_Glasgow_Rangers_v_Internazionale(Milan)_2005.jpg"
+ },
+ "sukru": {
+  "file": "assets/img/sukru.jpg",
+  "credit": "Валерий Дед",
+  "license": "CC BY 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Istanbul_%C5%9E%C3%BCkr%C3%BC_Saraco%C4%9Flu_Stadium_1.jpg"
+ },
+ "dragao": {
+  "file": "assets/img/dragao.jpg",
+  "credit": "Ângela Antunes from Dublin, Ireland",
+  "license": "CC BY 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Drag%C3%A3o_-_Porto,_2009_(4435817091).jpg"
+ },
+ "parc-des-princes": {
+  "file": "assets/img/parc-des-princes.jpg",
+  "credit": "Валерий Дед",
+  "license": "CC BY 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Paris_Parc_des_Princes_1.jpg"
+ },
+ "villa-park": {
+  "file": "assets/img/villa-park.jpg",
+  "credit": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
+  "src": "https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg"
+ },
+ "sanchez-pizjuan": {
+  "file": "assets/img/sanchez-pizjuan.jpg",
+  "credit": "Валерий Дед",
+  "license": "CC BY 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Seville_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_Stadium_1.jpg"
+ },
+ "allianz-stadium": {
+  "file": "assets/img/allianz-stadium.jpg",
+  "credit": "forzaq8 from kuwait, kuwait",
+  "license": "CC BY 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Juventus_v_Real_Madrid,_Champions_League,_Stadium,_Turin,_2013.jpg"
+ },
+ "stamford-bridge": {
+  "file": "assets/img/stamford-bridge.jpg",
+  "credit": "Nigel Cox",
+  "license": "CC BY-SA 2.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Fulham,_Stamford_Bridge_stadium_-_geograph.org.uk_-_864514.jpg"
+ },
+ "veltins": {
+  "file": "assets/img/veltins.jpg",
+  "credit": "Mefistofe",
+  "license": "CC BY-SA 3.0",
+  "src": "https://commons.wikimedia.org/wiki/File:Arena_Auf_Schalke_hosting_Schalke_04_vs_Dortmund_in_2009.jpg"
+ },
+ "rams-park": {
+  "file": "assets/img/rams-park.jpg",
+  "credit": "Thorn Lightning",
+  "license": "CC BY 2.0 at",
+  "src": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Telekom_Arena_in_Istanbul.jpg"
+ }
+}
